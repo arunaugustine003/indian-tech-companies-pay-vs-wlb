@@ -171,4 +171,111 @@ A **community-maintained reference** for Indian software engineers to understand
 | Chowbotics (DoorDash) |
 | Cloudera |
 | Dunzo |
-| Ji
+| Jio |
+| Juniper Networks |
+| MakeMyTrip |
+| MyGate |
+| PayPal |
+| Razorpay |
+| SanDisk |
+| Twilio |
+| Upgrad |
+
+---
+
+---
+
+## 🚨 Mid Pay + Poor WLB
+
+| Company |
+|---------|
+| BigBasket |
+| Cred |
+| Dream11 |
+| Hotstar |
+| Ola |
+| Oyo |
+| Paytm |
+| Unacademy |
+| Walmart |
+| Wissen |
+| Zeta |
+
+❌ Notes:
+- Startup / growth pressure
+- Attrition-heavy environments
+- Frequent fire-drills
+
+---
+
+---
+
+## ❓ Unknown Compensation
+
+| Company |
+|---------|
+| Groupon |
+| Snowflake |
+| Truecaller |
+| Zoom |
+
+---
+
+---
+
+## 🌍 Visa Sponsorship — Outside the US
+
+| Company | Location |
+|---------|-----------|
+| Agoda | Bangkok |
+| Booking | Amsterdam |
+| ByteDance | Singapore |
+| Databricks | Amsterdam |
+| Meta | London |
+| Spotify | Stockholm |
+| Yelp | London |
+| Zalando | Berlin |
+
+---
+
+---
+
+## 🏠 Remote-First / Remote-Friendly
+
+| Company |
+|---------|
+| Akamai |
+| Atlassian |
+| Auth0 |
+| BrowserStack |
+| Coinbase |
+| Confluent |
+| GitHub |
+| GitLab |
+| Meta |
+| Shopify |
+| Slack |
+| Square |
+| StackOverflow |
+
+🧭 Notes:
+- Remote flexibility ≠ good WLB always
+- Team culture still matters
+- Datadog is **hybrid (Bangalore office)**
+
+---
+
+---
+
+## 🧠 Choosing a Company: Reality-Check
+
+**Instead of relying solely on brand reputation, ask these questions:**
+
+### Interview Questions
+
+✅ How often do people work weekends?  
+✅ Do teams have US-timezone calls regularly?  
+✅ On-call frequency & rotation structure?  
+✅ Recent attrition on the team?  
+✅ How many people were promoted internally last year?
+
